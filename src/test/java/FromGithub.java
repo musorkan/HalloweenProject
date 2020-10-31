@@ -1,4 +1,4 @@
 
-class FromGithub.java{
+class FromGithub{
 
 }
